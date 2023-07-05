@@ -1,0 +1,48 @@
+
+body, html{
+
+    font-family: 'Raleway','sans-serif';
+    color:#777;
+    font-weight: 300;
+    width: 100% !important;
+    height: 100% !important;
+
+
+}
+
+.intro{
+    display: table;
+    width: 100%;
+    padding: 0;
+    background: url() no-repeat center center;
+    background-color: #e5e5e5;
+    background-size: cover;
+    
+}
+
+.intro .overlay{
+    background:rgba(0,0,0,0.4);
+}
+
+.intro h1{
+    font-family: 'Lucida Calligraphy',cursive;
+    color: #fff;
+    font-size: 10em;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.intro p{
+    color: #fff;
+    font-size: 32px;
+    font-weight: 300;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+header .intro-text{
+    padding-top: 250px;
+    padding-bottom: 200px;
+    text-align: center;
+}
