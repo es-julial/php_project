@@ -46,3 +46,34 @@ header .intro-text{
     padding-bottom: 200px;
     text-align: center;
 }
+
+#about{
+    padding: 120px 0;
+}
+
+#about h3{
+    font-size: 20px;
+}
+#about .about-text{
+    margin-left: 10px;
+}
+
+#about .about-img{
+    display: inline-block;
+    position: relative;
+}
+
+#about .about-img:before{
+    display: block;
+    content: '';
+    position: absolute;
+    top: 8px;
+    bottom: 8px;
+    left: 8px;
+    border: 1px solid rgb(255,255,255,.05);
+}
+
+#about p{
+    line-height: 24px;
+    margin: 15px 0 30px;
+}
