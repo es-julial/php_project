@@ -65,9 +65,21 @@
         <div class="about-text">
           <h2> Our Restaurant </h2>
           <hr/>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a 
+            type specimen book. It has survived not only five centuries, 
+            but also the leap into electronic typesetting, 
+            remaining essentially unchanged. 
+          </p>
           <h3>Awards</h3>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a 
+            type specimen book. It has survived not only five centuries, 
+            but also the leap into electronic typesetting, 
+            remaining essentially unchanged. 
+          </p>
         </div>
       </div>
     </div>
@@ -75,7 +87,55 @@
 </div>
 
 
+<!-- Restaurant Menu Selction -->
+<div id="restaurant-menu">
+  <div class="section-title text-center">
+    <div class="overlay">
+      <h2>Menu</h2>
+      <hr/>
+      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+            when an unknown printer took a galley of type and scrambled it to make a 
+            type specimen book. It has survived not only five centuries, 
+            but also the leap into electronic typesetting, 
+            remaining essentially unchanged. </p>
+    </div>
+  </div>
 
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-6">
+      <div class="menu-section">
+        <h2 class="menu-section-title">Breakfast</h2>
+        <hr/>
+        <div class="menu-item">
+          <div class="menu-item-name">Delicious Meal</div>
+          <div class="menu-item-price">$55</div>
+          <div class="menu-item description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </div>
+        </div>
+
+        <div class="menu-item">
+          <div class="menu-item-name">Delicious Meal</div>
+          <div class="menu-item-price">$55</div>
+          <div class="menu-item description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </div>
+        </div>
+
+
+        <div class="menu-item">
+          <div class="menu-item-name">Delicious Meal</div>
+          <div class="menu-item-price">$55</div>
+          <div class="menu-item description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+</div>
 
 
 
